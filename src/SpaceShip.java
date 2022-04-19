@@ -18,4 +18,10 @@ public class SpaceShip {
         this.matriculaGalactica = matriculaGalactica;
         this.aceleracion = aceleracion;
     }
+
+    public int speedUp() {
+        velocidadX = velocidadX + aceleracion;
+        coordenadaX = coordenadaX + velocidadX;
+        return coordenadaX;
+    }
 }

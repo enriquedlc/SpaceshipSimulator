@@ -25,6 +25,12 @@ public class SpaceShip {
         return coordenadaX;
     }
 
+    public int brake() {
+        velocidadX = velocidadX - aceleracion;
+        coordenadaX = coordenadaX + velocidadX;
+        return  coordenadaX;
+    }
+
     @Override
     public String toString() {
         return "  ____\n" +

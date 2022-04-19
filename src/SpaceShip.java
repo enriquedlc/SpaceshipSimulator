@@ -31,6 +31,12 @@ public class SpaceShip {
         return  coordenadaX;
     }
 
+    public int emergencyStop() {
+        velocidadX = 0;
+        coordenadaX = coordenadaX + velocidadX;
+        return coordenadaX;
+    }
+
     @Override
     public String toString() {
         return "  ____\n" +

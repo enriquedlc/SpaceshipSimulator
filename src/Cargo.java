@@ -24,4 +24,13 @@ public class Cargo extends SpaceShip {
         }
         return  contenedores;
     }
+
+    public int unload() {
+        if (contenedores <= 0) {
+            System.out.println("Los almacenes de carga están vacios, carga mercancía!!");
+        } else {
+            contenedores = contenedores - 1;
+        }
+        return  contenedores;
+    }
 }

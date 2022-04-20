@@ -11,4 +11,4 @@
 - Finalmente se devuelve el valor coordenadaX con un return.
 #### Se tomó como referencia esta página para la elección del diseño de la nave: 
 
-https://www.asciiart.eu/space/spaceships
+> https://www.asciiart.eu/space/spaceships

@@ -8,14 +8,6 @@ public class Cargo extends SpaceShip {
         this.contenedores = contenedores;
     }
 
-    public int getContenedores() {
-        return contenedores;
-    }
-
-    public void setContenedores(int contenedores) {
-        this.contenedores = contenedores;
-    }
-
     public int load() {
         if (contenedores >= CARGA_MAXIMA) {
             System.out.println("No hay más capacidad de carga en la nave ---> Capacidad máxima: " + CARGA_MAXIMA);

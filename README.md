@@ -41,3 +41,5 @@ reciban un valor inicial lógico para la clase que representan.
 #### Enlace para acceder a la explicación de la clase:
 
 > [Funcionamiento de la clase SpaceShip.java](./docs/SpaceShip.md)
+
+> [Funcionamiento de la clase Cargo.java](./docs/Cargo.md)

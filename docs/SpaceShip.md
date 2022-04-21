@@ -9,6 +9,8 @@
 - Igualamos tanto la velocidad en X como la coordenada en X, ya que dependiendo del caso, sea el de frenar o el de acelerar se le resta o suma la aceleración dada por el usuario.
 - A la coordenada en X siempre le sumamos la velocidad, porque así el programa es capaz de decirnos en qué punto del eje X se encuentra nuestra nave.
 - Finalmente se devuelve el valor coordenadaX con un return.
+- Esta el getter de velocidad en la clase, de esta manera es se muestra la velocidad de la nave en el programa principal.
+
 #### Se tomó como referencia esta página para la elección del diseño de la nave: 
 
 > https://www.asciiart.eu/space/spaceships

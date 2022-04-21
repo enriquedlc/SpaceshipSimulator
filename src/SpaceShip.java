@@ -64,4 +64,8 @@ public class SpaceShip {
                 " _.-'  `-._                 _..||.._                  _.-` '-._\n" +
                 "'-..__..--'bitcoin efectivo'-.____.-' carro depoltivo'--..__..-'";
     }
+
+    public int getVelocidadX() {
+        return velocidadX;
+    }
 }

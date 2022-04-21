@@ -39,7 +39,7 @@ public class SpaceShip {
 
     @Override
     public String toString() {
-        return "  ____\n" +
+        return "  \n" +
                 "                /___.`--.____ .--. ____.--(\n" +
                 "                       .'_.- (    ) -._'.\n" +
                 "                     .'.'    |'..'|    '.'.\n" +

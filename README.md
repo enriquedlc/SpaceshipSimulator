@@ -37,3 +37,9 @@ reciban un valor inicial lógico para la clase que representan.
 10.- Crea un nuevo documento en la carpeta docs de tu proyecto y denomínalo Cargo.md, procede como en el caso anterior explica el funcionamiento de tu clase Cargo así como cualquier referencia que hayas utilizado en este caso. Enlaza este nuevo documento desde el archivo Readme.md.
  
 11.- Por último, diseña una interfaz que permita al usuario crear una nueva nave, muestre su asciiArt correspondiente y permita que el usuario acelere, frene o pare. El usuario debe poder salir en cualquier momento de la aplicación.
+
+#### Enlace para acceder a la explicación de la clase:
+
+> [Funcionamiento de la clase SpaceShip.java](./docs/SpaceShip.md)
+
+> [Funcionamiento de la clase Cargo.java](./docs/Cargo.md)
